@@ -1,0 +1,40 @@
+html
+     <!DOCTYPE html>
+     <html lang="es">
+     <head>
+<meta charset=" UTF-8">
+         <title>Tienda de maquillaje</title>
+     </head>
+     <body style= "font-family:arial, sans-serif;text-align: center;backgroud-color:#FoFoFo;>"
+         <h1>💄online makeup💄</h1>
+         <p>Los mejores productos.</p>
+     <h2> productos de calidad</h2>
+     <ul style="list style: none; padding 0;>
+  <li>
+  
+<h3>makeup base</h3">
+<img src=>"https://pin.it/DIbCnUziA" alt="makeup base">
+<p>$350 MXN</p>
+</li>
+<li>
+
+
+<h3>Makeup concealer</h3>
+<img src=>"https://pin.it/ZCK6uiGDg" alt="makeup concealer">
+<p>$250 MXN</p>
+</li>
+<li>
+
+
+<h3>makeup powder</h3>
+<img src=>"https://pin.it/5LYcCLuuL" alt="makeup powder">
+<p>$150 MXN</p>
+</li>
+</ul>
+
+<h2> conctactanos en nuestra tienda olnine o nuestras redes sociales</h2>
+
+
+<p> instagram:<a hrf>="https://instagram.makeup_online.com/productos"
+<p> Emagil:contactanos_ en online makeup.com </p>
+		
